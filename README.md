@@ -10,7 +10,7 @@ The article source is written in [R Markdown](http://rmarkdown.rstudio.com/), an
 
 *  A recent version of R and [knitr](http://yihui.name/knitr/).
 *  A recent version of [pandoc](http://johnmacfarlane.net/pandoc/).
-*  A recent version of LaTeX for PDF output.
+*  A recent version of LaTeX and a copy of elsarticle.cls for PDF output.  For example, on Ubuntu 'sudo-apt-get install texlive-full' will install both at once.
 
 #### Credits
 
